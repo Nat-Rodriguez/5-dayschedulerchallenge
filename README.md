@@ -20,4 +20,4 @@ I have modified the starter code for a calendar app that allows a user to save e
 
 ## Deployed Application
 
-[Link to the deployed application]
+[Link to the deployed application](https://nat-rodriguez.github.io/5-dayschedulerchallenge/)
